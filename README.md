@@ -4,14 +4,14 @@
 📊 I enjoy transforming raw data into meaningful insights that help solve real-world business problems and support data-driven decision-making.
 💻 Currently building hands-on projects using Python, SQL, Excel, Power BI, and Tableau while strengthening my skills in data cleaning, analysis, visualization, and dashboard development.
 📈 I'm continuously learning new analytical techniques, improving my problem-solving abilities, and exploring modern data tools to grow into a professional Data Analyst.
-🚀 My goal is to build impactful projects, contribute to open-source, and kick-start my career in Data Analytics by delivering valuable insights from data.<br><br><br>###### 🚀 Currently Learning
+🚀 My goal is to build impactful projects, contribute to open-source, and kick-start my career in Data Analytics by delivering valuable insights from data.<br><br><br>#### 🚀 Currently Learning
 * 📊 Data Analytics
 * 🐍 Python for Data Analysis
 * 🗄️ SQL
 * 📈 Microsoft Excel
 * 📉 Power BI
 * 📊 Tableau
-* 📚 Statistics & Data Visualization.
+* 📚 Statistics & Data Visualization.<br>
 I believe every dataset has a story to tell, and I'm passionate about uncovering insights that drive smarter decisions. I'm excited to keep learning, building impactful projects, and sharing my journey on GitHub.
 
 
