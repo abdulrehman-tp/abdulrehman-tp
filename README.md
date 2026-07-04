@@ -1,10 +1,7 @@
 # 💫 About Me:
-# 👋 Hi, I'm Abdul Rehman
-🎓 strong passion for Data Analytics and Business Intelligence.
-📊 I enjoy transforming raw data into meaningful insights that help solve real-world business problems and support data-driven decision-making.
-💻 Currently building hands-on projects using Python, SQL, Excel, Power BI, and Tableau while strengthening my skills in data cleaning, analysis, visualization, and dashboard development.
-📈 I'm continuously learning new analytical techniques, improving my problem-solving abilities, and exploring modern data tools to grow into a professional Data Analyst.
-🚀 My goal is to build impactful projects, contribute to open-source, and kick-start my career in Data Analytics by delivering valuable insights from data.<br><br><br>#### 🚀 Currently Learning
+ Passionate about turning raw data into meaningful insights that drive smarter business decisions.
+ Continuously learning and building real-world projects with Python, SQL, Excel, Power BI, and Tableau to grow as a Data Analyst.
+<br><br><br>## 💫 Technical Skills
 * 📊 Data Analytics
 * 🐍 Python for Data Analysis
 * 🗄️ SQL
