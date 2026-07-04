@@ -9,7 +9,7 @@
 * 📉 Power BI
 * 📊 Tableau
 * 📚 Statistics & Data Visualization.<br>
-I believe every dataset has a story to tell, and I'm passionate about uncovering insights that drive smarter decisions. I'm excited to keep learning, building impactful projects, and sharing my journey on GitHub.
+<br><br>I believe every dataset has a story to tell, and I'm passionate about uncovering insights that drive smarter decisions. I'm excited to keep learning, building impactful projects, and sharing my journey on GitHub.
 
 
 ## 🌐 Socials:
