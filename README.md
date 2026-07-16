@@ -1,6 +1,7 @@
 ## 💫 About Me:
  Passionate about turning raw data into meaningful insights that drive smarter business decisions.<br>
- Continuously learning and building real-world projects with Python, SQL, Excel, Power BI, Statistics & Data Visualization and Tableau to grow as a Data Analyst.
+ Continuously learning and building real-world projects with Python, SQL, Excel, Power BI, Statistics<br>
+ & Data Visualization and Tableau to grow as a Data Analyst.
 <br><br><br>💫 Technical Skills
 * 📊 Data Analytics
 * 🐍 Python for Data Analysis
