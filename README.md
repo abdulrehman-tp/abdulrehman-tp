@@ -2,7 +2,7 @@
  Passionate about turning raw data into meaningful insights that drive smarter business decisions.<br>
  Continuously learning and building real-world projects with Python, SQL, Excel, Power BI, Statistics & Data Visualization and Tableau to grow as a Data Analyst.<br>
  
- ### Built 5+ real-world analytics projects.
+ ### Built real-world analytics projects.
 <br><br>💫 Technical Skills
 * 📊 Data Analytics
 * 🐍 Python for Data Analysis
