@@ -3,7 +3,7 @@
  Continuously learning and building real-world projects with Python, SQL, Excel, Power BI, Statistics & Data Visualization and Tableau to grow as a Data Analyst.<br>
  
  ### Built real-world analytics projects.
-<br><br>💫 Technical Skills
+<br>💫 Technical Skills
 * 📊 Data Analytics
 * 🐍 Python for Data Analysis
 * 🗄️ SQL
