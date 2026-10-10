@@ -5,11 +5,10 @@
  ### Built real-world analytics projects.
 <br>💫 Technical Skills
 * 📊 Data Analytics
-* 🐍 Python for Data Analysis
+* 🐍 Python for Data Manuplation 
 * 🗄️ SQL
 * 📈 Microsoft Excel
 * 📉 Power BI
-* 📊 Tableau
 * 📚 Statistics & Data Visualization.<br><br>I believe every dataset has a story to tell, and I'm passionate about uncovering insights that drive smarter decisions. I'm excited to keep learning, building impactful projects, and sharing my journey on GitHub.
 
 
